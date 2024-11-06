@@ -1,6 +1,6 @@
 # Neural Network from Scratch
 
-This project is a simple neural network built entirely from scratch using Python and only the `numpy` library. My goal was to understand the fundamentals of neural networks by implementing each component manually, including backpropagation and gradient descent. Below, I outline the key parts of the project, what I did, and some insights I gained along the way.Credit to 3Blue1Brown and Michael Nielsen's "Neural Networks and Deep Learning" book for teaching the relevant mathematics, logic, and some code inspiration
+This project is a simple neural network built entirely from scratch using Python and only the `numpy` library. My goal was to understand the fundamentals of neural networks by implementing each component manually, including backpropagation and gradient descent. Below, I outline the key parts of the project, what I did, and some insights I gained along the way. Credit to 3Blue1Brown and Michael Nielsen's "Neural Networks and Deep Learning" book for teaching the relevant mathematics, logic, and some code inspiration
 
 ## What I Did
 
