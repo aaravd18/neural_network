@@ -1,7 +1,5 @@
 import numpy as np
-from network import Network  # Importing the Network class
-
-import numpy as np
+from network import Network  
 
 # Define the XOR dataset
 training_data = [

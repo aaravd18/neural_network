@@ -128,5 +128,5 @@ def sigmoid(x):
 
 # Derivative of the ReLU function
 def sigmoid_prime(x):
-    return ReLU(x) * (1 - ReLU(x))
+    return sigmoid(x) * (1 - sigmoid(x))
         
