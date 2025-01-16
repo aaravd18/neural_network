@@ -23,5 +23,5 @@ This project is a simple neural network built entirely from scratch using Python
    - **He Initialization**: To mitigate vanishing gradients, especially in deeper networks.
    - **Leaky ReLU**: To keep neurons active and avoid zero gradients, ensuring they continue to contribute to learning.
 
-This project provided a pretty solid foundation in both the theoretical and practical aspects of neural networks, and I'm excited to explore them further
+This project provided a pretty solid foundation in both the theoretical and practical aspects of neural networks, and I'm excited to explore them further!
 
